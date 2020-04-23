@@ -1,0 +1,18 @@
+hr{
+
+    
+    width: 100px; 
+    border:2px solid black;
+}
+p{
+    color: white;
+}
+footer  {
+    background-color: black;
+}
+footer h3{
+    color: grey;
+}
+html {
+    scroll-behavior: smooth;
+}
